@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--<?xml-stylesheet type="text/css" href="mystyle.css" ?>-->
+<food type="A">
+	<menu type="A">
+		<sat1>Nanna Biriani</sat1>
+		<sun1>Vuna Khichuri</sun1>
+		<mon1>Mukta Biriani</mon1>
+		<thu1>Kachchi Biryani</thu1>
+		<wed1>Patla Khichuri</wed1>
+		<thr1>Rice with Curry</thr1>
+		<fri1>Morog Polao</fri1>
+
+		
+	</menu>
+
+	<menu type="B">
+		<sat1>Vegetable Curry</sat1>
+		<sun1>Eggs</sun1>
+		<mon1>Fish</mon1>
+		<thu1>Vegetable Curry</thu1>
+		<wed1>Fish</wed1>
+		<thr1>Beef</thr1>
+		<fri1>Eggs</fri1>
+
+		
+	</menu>
+	
+</food>
